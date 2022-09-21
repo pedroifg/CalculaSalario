@@ -2,7 +2,7 @@
 
 ## Exercício JavaScript
 
-- Sobre o projeto:
+- Sobre o Exercício:
   - Exercício feito para calcular salário de um usuário tendo bonificação de 5% e em seguida uma redução de 7%.
 
 - Tecnologias utilizadas: <br>
